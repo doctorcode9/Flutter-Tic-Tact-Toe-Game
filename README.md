@@ -1,16 +1,16 @@
-# tictactoe_tutorial
+# Tic Tac Toe Game
 
-A new Flutter project.
+A simple Flutter Tic tac toe game made for educational purpose. the main goal of this project is to teach the importance of data structure and algorithm in mobile developement.
 
-## Getting Started
+with this project you will learn how to use lists properly, how to navigate within the list and how to convert a list to a matrix
 
-This project is a starting point for a Flutter application.
+## Instalation
 
-A few resources to get you started if this is your first Flutter project:
+start by creating an empty folder in your computer and clone this repository
+```bash
+git clone https://github.com/doctorcode9/Flutter-Tic-Tact-Toe-Game.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Follow me in socila media
+[Youtube](https://www.youtube.com/c/doctorcode9)
+[Twitter](https://twitter.com/DoctorCode2)
